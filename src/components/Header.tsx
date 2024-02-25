@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { ChoiceGroup, ChoiceGroupPropOnChange } from '@consta/uikit/ChoiceGroup';
 import '../style.css';
 

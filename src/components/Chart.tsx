@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { ReactECharts } from '../Echarts/ReactECharts';
 import '../style.css';
 

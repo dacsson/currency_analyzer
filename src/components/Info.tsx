@@ -1,6 +1,4 @@
-import { useState } from 'react';
 import { Card } from '@consta/uikit/Card';
-import { Text} from '@consta/uikit/Text';
 import '../style.css';
 
 interface IInfoData
